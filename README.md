@@ -1,6 +1,14 @@
 # Code Refactor Starter Code
 
-## Release Notes
+Git Page - Deployed Application
+https://mjos7.github.io/horiseon-marketing-website/
+
+Screenshot of Mockup
+./assets/images/Hirseon Agency Landing Page Mockup.png
+
+## Description
+
+Refactored Existing Code to make site more accessible
 
 - Updated Page Title to be more descriptive
 - Added Page Description
